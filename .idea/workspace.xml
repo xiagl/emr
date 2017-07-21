@@ -1245,7 +1245,7 @@
       <workItem from="1500511852970" duration="2751000" />
       <workItem from="1500515794439" duration="6127000" />
       <workItem from="1500532575329" duration="5193000" />
-      <workItem from="1500596817717" duration="2972000" />
+      <workItem from="1500596817717" duration="3568000" />
     </task>
     <task id="LOCAL-00001" summary="电子病历系统1.5&#10;各版本文档和修改意见">
       <created>1498929517712</created>
@@ -1258,7 +1258,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158837000" />
+    <option name="totallyTimeSpent" value="159433000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1270,7 +1270,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1452" height="876" extended-state="0" />
+    <frame x="-8" y="-8" width="1452" height="876" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
